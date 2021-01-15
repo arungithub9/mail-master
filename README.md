@@ -1,3 +1,3 @@
 # mail-master
 
-https://github.com/arungithub9/mail-master/python-package/badge.svg
+https://github.com/arungithub9/mail-master/Python%20package/badge.svg
