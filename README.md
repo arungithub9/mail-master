@@ -1,3 +1,3 @@
 # mail-master
 
-https://github.com/arungithub9/mail-master/Python%20package/badge.svg
+![Python package](https://github.com/arungithub9/mail-master/workflows/Python%20package/badge.svg?branch=main)
